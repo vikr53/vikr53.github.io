@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: archive
 title: ""
 excerpt: "Main Page"
 author_profile: true
