@@ -1,12 +1,10 @@
 ---
-permalink: /
 layout: archive
+permalink: /
 title: ""
-excerpt: "Main Page"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /wordpress/blog-posts
 ---
 
 {% include base_path %}
