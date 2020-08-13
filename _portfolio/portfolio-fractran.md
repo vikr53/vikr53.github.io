@@ -5,4 +5,4 @@ collection: portfolio
 ---
 Programmed an interpreter to play around with FRACTRAN, Conway's Turing-complete esoteric programming language.
 
-[Download report here](http://localhost:4000/files/Fractran.pdf)
+[Download report here](https://vikramramanathan.com/files/Fractran.pdf)

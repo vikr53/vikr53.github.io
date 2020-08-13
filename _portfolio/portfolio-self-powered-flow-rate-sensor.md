@@ -11,4 +11,4 @@ The purpose of this project was to design a self-powered flow velocity sensor. T
 
 <br/>
 
-[Download report here](http://localhost:4000/files/Self_Powered_Flow_Rate_Sensor.pdf)
+[Download report here](https://vikramramanathan.com/files/Self_Powered_Flow_Rate_Sensor.pdf)
