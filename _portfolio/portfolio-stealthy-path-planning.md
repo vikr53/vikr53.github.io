@@ -1,0 +1,8 @@
+---
+title: "Stealthy Path Planning"
+excerpt: "This was a toy problem that investigated the development of a stealthy search algorithm that minimizes exposure of the object under consideration to 'areas of consequence' on the grid. Areas of consequence could range from capture zones in games to operational range of missiles and mines. In this solution, I elected to use a cost minimizing algorithm, specifically, A* search with a custom-made heuristic. This heuristic evaluates the minimum Euclidean distance to an obstacle on the grid from the node under study and then subtracts it from the Euclidean distance to the destination node. The result is assigned to the priority of the node in the priority queue used in the A* search. <br/><br/><img src='/images/stealthy_path_planner.png' style='max-width:400px;'>"
+collection: portfolio
+---
+This was a toy problem that investigated the development of a stealthy search algorithm that minimizes exposure of the object under consideration to "areas of consequence" on the grid. Areas of consequence could range from capture zones in games to operational range of missiles and mines. In this solution, I elected to use a cost minimizing algorithm, specifically, A* search with a custom-made heuristic. This heuristic evaluates the minimum Euclidean distance to an obstacle on the grid from the node under study and then subtracts it from the Euclidean distance to the destination node. The result is assigned to the priority of the node in the priority queue used in the A* search.
+
+[Download report here](http://localhost:4000/files/Stealthy_Path_Planning.pdf)
